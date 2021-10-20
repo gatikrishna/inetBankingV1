@@ -1,0 +1,182 @@
+2021-10-08 10:24:54,332 [main] INFO ebanking - logging the site
+2021-10-08 11:04:20,570 [main] INFO ebanking - logging the site
+2021-10-08 11:04:25,532 [main] INFO ebanking - clicking submit button
+2021-10-08 11:04:25,544 [main] INFO ebanking - test got passed
+2021-10-08 20:48:16,276 [main] INFO ebanking - logging the site
+2021-10-08 20:49:21,246 [main] INFO ebanking - logging the site
+2021-10-08 20:49:28,228 [main] INFO ebanking - clicking submit button
+2021-10-08 20:49:28,243 [main] INFO ebanking - test got passed
+2021-10-11 12:41:36,952 [main] INFO ebanking - logging the site
+2021-10-11 12:47:24,763 [main] INFO ebanking - logging the site
+2021-10-11 12:47:35,006 [main] INFO ebanking - clicking submit button
+2021-10-11 12:47:35,022 [main] INFO ebanking - test got passed
+2021-10-11 12:48:40,062 [main] INFO ebanking - logging the site
+2021-10-11 12:58:49,166 [main] INFO ebanking - logging the site
+2021-10-11 12:58:58,669 [main] INFO ebanking - clicking submit button
+2021-10-11 12:58:58,682 [main] INFO ebanking - test got passed
+2021-10-11 13:00:31,062 [main] INFO ebanking - logging the site
+2021-10-11 13:00:41,375 [main] INFO ebanking - clicking submit button
+2021-10-11 13:00:41,390 [main] INFO ebanking - test got passed
+2021-10-11 13:01:02,759 [main] INFO ebanking - logging the site
+2021-10-11 13:02:29,321 [main] INFO ebanking - logging the site
+2021-10-11 16:23:28,991 [main] INFO ebanking - logging the site
+2021-10-11 16:23:39,109 [main] INFO ebanking - entered username
+2021-10-11 16:23:39,363 [main] INFO ebanking - entered password
+2021-10-11 16:23:42,159 [main] INFO ebanking - clicked submit button
+2021-10-11 16:23:42,179 [main] INFO ebanking - test got passed
+2021-10-11 16:30:22,843 [main] INFO ebanking - logging the site
+2021-10-11 16:30:27,788 [main] INFO ebanking - entered username
+2021-10-11 16:34:48,353 [main] INFO ebanking - logging the site
+2021-10-11 16:34:52,537 [main] INFO ebanking - entered username
+2021-10-11 16:48:09,890 [main] INFO ebanking - logging the site
+2021-10-11 16:48:13,774 [main] INFO ebanking - entered username
+2021-10-11 16:56:12,937 [main] INFO ebanking - logging the site
+2021-10-11 16:56:17,200 [main] INFO ebanking - entered username
+2021-10-11 17:17:16,988 [main] INFO ebanking - logging the site
+2021-10-11 17:17:21,150 [main] INFO ebanking - entered username
+2021-10-11 17:41:40,903 [main] INFO ebanking - logging the site
+2021-10-11 17:41:45,334 [main] INFO ebanking - entered username
+2021-10-11 17:41:45,495 [main] INFO ebanking - entered password
+2021-10-11 17:41:47,411 [main] INFO ebanking - clicked submit button
+2021-10-11 17:41:47,419 [main] INFO ebanking - test got failed
+2021-10-11 18:24:59,098 [main] INFO ebanking - logging the site
+2021-10-11 18:25:05,798 [main] INFO ebanking - entered username
+2021-10-11 18:25:06,055 [main] INFO ebanking - entered password
+2021-10-11 18:25:09,225 [main] INFO ebanking - clicked submit button
+2021-10-11 18:25:09,782 [main] INFO ebanking - screenshot captured
+2021-10-11 18:25:09,782 [main] INFO ebanking - test got failed
+2021-10-13 20:58:05,519 [main] INFO ebanking - logging the site
+2021-10-13 21:32:07,437 [main] INFO ebanking - logging the site
+2021-10-14 09:57:59,312 [main] INFO ebanking - logging the site
+2021-10-14 10:26:40,642 [main] INFO ebanking - logging the site
+2021-10-14 10:26:44,705 [main] INFO ebanking - xls path is : ./Configuration/LoginData.xlsx
+2021-10-14 10:26:47,661 [main] INFO ebanking - user name provided
+2021-10-14 10:26:47,902 [main] INFO ebanking - password provided
+2021-10-14 10:26:54,236 [main] INFO ebanking - screenshot captured
+2021-10-14 10:26:54,996 [main] INFO ebanking - user name provided
+2021-10-14 10:26:55,235 [main] INFO ebanking - password provided
+2021-10-14 10:27:04,153 [main] INFO ebanking - screenshot captured
+2021-10-14 10:27:04,782 [main] INFO ebanking - user name provided
+2021-10-14 10:27:04,936 [main] INFO ebanking - password provided
+2021-10-14 10:27:12,203 [main] INFO ebanking - screenshot captured
+2021-10-14 10:27:12,797 [main] INFO ebanking - user name provided
+2021-10-14 10:27:13,018 [main] INFO ebanking - password provided
+2021-10-14 10:27:18,313 [main] INFO ebanking - screenshot captured
+2021-10-14 10:27:18,711 [main] INFO ebanking - user name provided
+2021-10-14 10:27:18,858 [main] INFO ebanking - password provided
+2021-10-14 10:27:24,477 [main] INFO ebanking - screenshot captured
+2021-10-14 10:28:30,767 [main] INFO ebanking - logging the site
+2021-10-14 10:28:34,689 [main] INFO ebanking - xls path is : D:\Android_Project\inetBankingV1\src\test\java\com\inetbanking\testdate\LoginData.xlsx
+2021-10-14 10:28:36,933 [main] INFO ebanking - user name provided
+2021-10-14 10:28:37,152 [main] INFO ebanking - password provided
+2021-10-14 10:28:42,962 [main] INFO ebanking - screenshot captured
+2021-10-14 10:28:43,510 [main] INFO ebanking - user name provided
+2021-10-14 10:28:43,667 [main] INFO ebanking - password provided
+2021-10-14 10:28:49,001 [main] INFO ebanking - screenshot captured
+2021-10-14 10:28:49,455 [main] INFO ebanking - user name provided
+2021-10-14 10:28:49,579 [main] INFO ebanking - password provided
+2021-10-14 10:28:55,510 [main] INFO ebanking - screenshot captured
+2021-10-14 10:28:55,938 [main] INFO ebanking - user name provided
+2021-10-14 10:28:56,123 [main] INFO ebanking - password provided
+2021-10-14 10:29:01,641 [main] INFO ebanking - screenshot captured
+2021-10-14 10:29:02,060 [main] INFO ebanking - user name provided
+2021-10-14 10:29:02,198 [main] INFO ebanking - password provided
+2021-10-14 10:29:07,741 [main] INFO ebanking - screenshot captured
+2021-10-14 10:32:24,399 [main] INFO ebanking - logging the site
+2021-10-14 10:32:29,018 [main] INFO ebanking - xls path is : D:\Android_Project\inetBankingV1/src/test/java/com/inetbanking/testdata/LoginData.xlsx
+2021-10-14 10:36:14,705 [main] INFO ebanking - logging the site
+2021-10-14 10:36:19,188 [main] INFO ebanking - xls path is : D:\Android_Project\inetBankingV1\src\test\java\com\inetbanking\testdata\LoginData.xlsx
+2021-10-14 10:38:43,257 [main] INFO ebanking - logging the site
+2021-10-14 10:38:47,384 [main] INFO ebanking - xls path is : D:\Android_Project\inetBankingV1\src\test\java\com\inetbanking\testdate\LoginData.xlsx
+2021-10-14 10:38:49,422 [main] INFO ebanking - user name provided
+2021-10-14 10:38:49,614 [main] INFO ebanking - password provided
+2021-10-14 10:38:55,898 [main] INFO ebanking - screenshot captured
+2021-10-14 10:38:56,488 [main] INFO ebanking - user name provided
+2021-10-14 10:38:56,657 [main] INFO ebanking - password provided
+2021-10-14 10:39:02,773 [main] INFO ebanking - screenshot captured
+2021-10-14 10:39:03,193 [main] INFO ebanking - user name provided
+2021-10-14 10:39:03,333 [main] INFO ebanking - password provided
+2021-10-14 10:39:09,001 [main] INFO ebanking - screenshot captured
+2021-10-14 10:39:09,350 [main] INFO ebanking - user name provided
+2021-10-14 10:39:09,488 [main] INFO ebanking - password provided
+2021-10-14 10:39:15,205 [main] INFO ebanking - screenshot captured
+2021-10-14 10:39:15,628 [main] INFO ebanking - user name provided
+2021-10-14 10:39:15,761 [main] INFO ebanking - password provided
+2021-10-14 10:39:21,194 [main] INFO ebanking - screenshot captured
+2021-10-14 19:54:50,619 [main] INFO ebanking - logging the site
+2021-10-14 19:55:16,573 [main] INFO ebanking - User name is provided
+2021-10-14 19:55:16,802 [main] INFO ebanking - Passsword is provided
+2021-10-14 19:55:23,794 [main] INFO ebanking - providing customer details....
+2021-10-14 19:55:35,782 [main] INFO ebanking - validation started....
+2021-10-14 19:55:35,871 [main] INFO ebanking - test case passed....
+2021-10-14 19:56:11,823 [main] INFO ebanking - logging the site
+2021-10-14 19:56:24,701 [main] INFO ebanking - User name is provided
+2021-10-14 19:56:25,014 [main] INFO ebanking - Passsword is provided
+2021-10-14 19:56:31,393 [main] INFO ebanking - providing customer details....
+2021-10-14 19:56:43,282 [main] INFO ebanking - validation started....
+2021-10-14 19:56:43,357 [main] INFO ebanking - test case passed....
+2021-10-14 20:09:41,140 [main] INFO ebanking - logging the site
+2021-10-14 20:10:35,949 [main] INFO ebanking - User name is provided
+2021-10-14 20:10:36,175 [main] INFO ebanking - Passsword is provided
+2021-10-14 20:11:08,637 [main] INFO ebanking - providing customer details....
+2021-10-14 20:14:04,291 [main] INFO ebanking - validation started....
+2021-10-14 20:14:04,367 [main] INFO ebanking - test case passed....
+2021-10-14 20:16:06,121 [main] INFO ebanking - logging the site
+2021-10-14 20:16:40,837 [main] INFO ebanking - User name is provided
+2021-10-14 20:16:41,055 [main] INFO ebanking - Passsword is provided
+2021-10-14 20:16:49,244 [main] INFO ebanking - providing customer details....
+2021-10-14 20:19:24,316 [main] INFO ebanking - validation started....
+2021-10-14 20:19:24,392 [main] INFO ebanking - test case passed....
+2021-10-18 11:32:14,004 [main] INFO ebanking - logging the site
+2021-10-18 11:32:18,692 [main] INFO ebanking - User name is provided
+2021-10-18 11:32:18,841 [main] INFO ebanking - Passsword is provided
+2021-10-18 11:32:24,256 [main] INFO ebanking - providing customer details....
+2021-10-18 11:32:35,891 [main] INFO ebanking - validation started....
+2021-10-18 11:32:35,954 [main] INFO ebanking - test case passed....
+2021-10-18 11:35:54,449 [main] INFO ebanking - logging the site
+2021-10-18 11:35:58,809 [main] INFO ebanking - User name is provided
+2021-10-18 11:35:58,995 [main] INFO ebanking - Passsword is provided
+2021-10-18 11:36:04,831 [main] INFO ebanking - providing customer details....
+2021-10-18 11:36:14,907 [main] INFO ebanking - validation started....
+2021-10-18 15:38:34,329 [main] INFO ebanking - logging the site
+2021-10-18 15:38:39,485 [main] INFO ebanking - User name is provided
+2021-10-18 15:38:39,718 [main] INFO ebanking - Passsword is provided
+2021-10-18 15:38:45,597 [main] INFO ebanking - providing customer details....
+2021-10-18 15:38:56,781 [main] INFO ebanking - validation started....
+2021-10-18 15:38:56,798 [main] INFO ebanking - test case passed....
+2021-10-18 18:23:06,406 [main] INFO ebanking - logging the site
+2021-10-18 18:23:10,721 [main] INFO ebanking - User name is provided
+2021-10-18 18:23:10,886 [main] INFO ebanking - Passsword is provided
+2021-10-18 18:23:16,513 [main] INFO ebanking - providing customer details....
+2021-10-18 18:23:27,349 [main] INFO ebanking - validation started....
+2021-10-18 18:23:27,366 [main] INFO ebanking - test case passed....
+2021-10-18 19:09:59,091 [main] INFO ebanking - logging the site
+2021-10-18 19:10:05,563 [main] INFO ebanking - User name is provided
+2021-10-18 19:10:05,702 [main] INFO ebanking - Passsword is provided
+2021-10-18 19:10:11,443 [main] INFO ebanking - providing customer details....
+2021-10-18 19:10:22,247 [main] INFO ebanking - validation started....
+2021-10-18 19:10:22,267 [main] INFO ebanking - test case passed....
+2021-10-18 20:06:03,013 [main] INFO ebanking - logging the site
+2021-10-18 20:06:07,525 [main] INFO ebanking - User name is provided
+2021-10-18 20:06:07,727 [main] INFO ebanking - Passsword is provided
+2021-10-18 20:06:13,711 [main] INFO ebanking - providing customer details....
+2021-10-18 20:06:25,004 [main] INFO ebanking - validation started....
+2021-10-18 20:06:25,022 [main] INFO ebanking - test case passed....
+2021-10-19 15:47:27,902 [main] INFO ebanking - logging the site
+2021-10-19 15:47:32,928 [main] INFO ebanking - User name is provided
+2021-10-19 15:47:33,112 [main] INFO ebanking - Passsword is provided
+2021-10-19 15:47:39,107 [main] INFO ebanking - providing customer details....
+2021-10-19 15:47:50,445 [main] INFO ebanking - validation started....
+2021-10-19 15:47:50,501 [main] INFO ebanking - test case passed....
+2021-10-19 15:48:32,238 [main] INFO ebanking - logging the site
+2021-10-19 15:48:36,265 [main] INFO ebanking - User name is provided
+2021-10-19 15:48:36,373 [main] INFO ebanking - Passsword is provided
+2021-10-19 15:48:41,680 [main] INFO ebanking - providing customer details....
+2021-10-19 15:48:52,422 [main] INFO ebanking - validation started....
+2021-10-19 15:48:52,438 [main] INFO ebanking - test case passed....
+2021-10-19 22:13:55,371 [main] INFO ebanking - logging the site
+2021-10-19 22:14:00,262 [main] INFO ebanking - User name is provided
+2021-10-19 22:14:00,425 [main] INFO ebanking - Passsword is provided
+2021-10-19 22:14:05,959 [main] INFO ebanking - providing customer details....
+2021-10-19 22:14:16,575 [main] INFO ebanking - validation started....
+2021-10-19 22:14:16,593 [main] INFO ebanking - test case passed....

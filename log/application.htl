@@ -1,0 +1,2514 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Oct 08 20:48:16 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:13</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Oct 08 20:49:21 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:13</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>6982</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:19</td>
+<td title="Message">clicking submit button</td>
+</tr>
+
+<tr>
+<td>6997</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:21</td>
+<td title="Message">test got passed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 12:41:36 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:51</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 12:47:20 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:51</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>10243</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:18</td>
+<td title="Message">clicking submit button</td>
+</tr>
+
+<tr>
+<td>10259</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:20</td>
+<td title="Message">test got passed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 12:48:35 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:51</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 12:58:46 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:51</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>9503</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:18</td>
+<td title="Message">clicking submit button</td>
+</tr>
+
+<tr>
+<td>9516</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:20</td>
+<td title="Message">test got passed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 13:00:22 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>10313</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:18</td>
+<td title="Message">clicking submit button</td>
+</tr>
+
+<tr>
+<td>10328</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:20</td>
+<td title="Message">test got passed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 13:00:59 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 13:02:25 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 16:23:23 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>10118</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+
+<tr>
+<td>10372</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:18</td>
+<td title="Message">entered password</td>
+</tr>
+
+<tr>
+<td>13168</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:20</td>
+<td title="Message">clicked submit button</td>
+</tr>
+
+<tr>
+<td>13188</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:22</td>
+<td title="Message">test got passed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 16:30:18 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4946</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 16:34:45 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4186</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 16:48:06 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>3885</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 16:56:10 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4264</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 17:17:14 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:52</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4162</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 17:41:37 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:58</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4431</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+
+<tr>
+<td>4592</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:18</td>
+<td title="Message">entered password</td>
+</tr>
+
+<tr>
+<td>6508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:20</td>
+<td title="Message">clicked submit button</td>
+</tr>
+
+<tr>
+<td>6516</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:25</td>
+<td title="Message">test got failed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 11 18:24:54 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:58</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>6700</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:16</td>
+<td title="Message">entered username</td>
+</tr>
+
+<tr>
+<td>6957</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:18</td>
+<td title="Message">entered password</td>
+</tr>
+
+<tr>
+<td>10127</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:20</td>
+<td title="Message">clicked submit button</td>
+</tr>
+
+<tr>
+<td>10684</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:78</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>10684</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginTest_001.java:26</td>
+<td title="Message">test got failed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Oct 13 20:58:00 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Oct 13 21:32:02 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 09:57:54 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 10:26:36 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4063</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:59</td>
+<td title="Message">xls path is : ./Configuration/LoginData.xlsx</td>
+</tr>
+
+<tr>
+<td>7019</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>7260</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>13594</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>14354</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>14593</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>23511</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>24140</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>24294</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>31561</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>32155</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>32376</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>37671</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>38069</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>38216</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>43835</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 10:28:26 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>3922</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:60</td>
+<td title="Message">xls path is : D:\Android_Project\inetBankingV1\src\test\java\com\inetbanking\testdate\LoginData.xlsx</td>
+</tr>
+
+<tr>
+<td>6166</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>6385</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>12195</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>12743</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>12900</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>18234</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>18688</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>18812</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>24743</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>25171</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>25356</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>30874</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>31293</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>31431</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>36974</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 10:32:20 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4619</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:60</td>
+<td title="Message">xls path is : D:\Android_Project\inetBankingV1/src/test/java/com/inetbanking/testdata/LoginData.xlsx</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 10:36:09 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4483</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:60</td>
+<td title="Message">xls path is : D:\Android_Project\inetBankingV1\src\test\java\com\inetbanking\testdata\LoginData.xlsx</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 10:38:39 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:59</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4127</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:60</td>
+<td title="Message">xls path is : D:\Android_Project\inetBankingV1\src\test\java\com\inetbanking\testdate\LoginData.xlsx</td>
+</tr>
+
+<tr>
+<td>6165</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>6357</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>12641</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>13231</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>13400</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>19516</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>19936</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>20076</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>25744</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>26093</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>26231</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>31948</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+
+<tr>
+<td>32371</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:21</td>
+<td title="Message">user name provided</td>
+</tr>
+
+<tr>
+<td>32504</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_LoginDDT_002.java:23</td>
+<td title="Message">password provided</td>
+</tr>
+
+<tr>
+<td>37937</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:79</td>
+<td title="Message">screenshot captured</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 19:54:43 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>25954</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>26183</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>33175</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>45163</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>45252</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 19:56:07 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>12878</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>13191</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>19570</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>31459</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>31534</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 20:09:36 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>54809</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>55035</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>87497</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>263151</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>263227</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Oct 14 20:16:02 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>34716</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>34934</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>43123</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>198195</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>198271</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 18 11:32:10 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4688</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>4837</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>10252</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>21887</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>21950</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 18 11:35:51 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4360</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>4546</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>10382</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>20458</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 18 15:38:30 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>5156</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>5389</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>11268</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>22452</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>22469</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 18 18:23:02 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4315</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>4480</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>10107</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>20943</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>20960</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 18 19:09:56 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>6472</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>6611</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>12352</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>23156</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>23176</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 18 20:05:59 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4512</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>4714</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>10698</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>21991</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>22009</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 19 15:47:24 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>5026</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>5210</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>11205</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>22543</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>22599</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 19 15:48:29 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4027</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>4135</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>9442</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>20184</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>20200</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 19 22:13:51 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>BaseClass.java:60</td>
+<td title="Message">logging the site</td>
+</tr>
+
+<tr>
+<td>4891</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:21</td>
+<td title="Message">User name is provided</td>
+</tr>
+
+<tr>
+<td>5054</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:23</td>
+<td title="Message">Passsword is provided</td>
+</tr>
+
+<tr>
+<td>10588</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:32</td>
+<td title="Message">providing customer details....</td>
+</tr>
+
+<tr>
+<td>21204</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:52</td>
+<td title="Message">validation started....</td>
+</tr>
+
+<tr>
+<td>21222</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ebanking category">ebanking</td>
+<td>TC_AddCustomerTest_003.java:59</td>
+<td title="Message">test case passed....</td>
+</tr>
